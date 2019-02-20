@@ -1,0 +1,123 @@
+{
+  "mahasiswa" : [{
+  "id": 1,
+  "name": "Libbie Gepson",
+  "gender": "Female"
+}, {
+  "id": 2,
+  "name": "Garrick Huban",
+  "gender": "Male"
+}, {
+  "id": 3,
+  "name": "Andris De Nisco",
+  "gender": "Male"
+}, {
+  "id": 4,
+  "name": "Roz Deboy",
+  "gender": "Female"
+}, {
+  "id": 5,
+  "name": "Marc Dyer",
+  "gender": "Male"
+}, {
+  "id": 6,
+  "name": "Cassaundra Zanotti",
+  "gender": "Female"
+}, {
+  "id": 7,
+  "name": "Delilah O' Flaherty",
+  "gender": "Female"
+}, {
+  "id": 8,
+  "name": "Melosa Dillistone",
+  "gender": "Female"
+}, {
+  "id": 9,
+  "name": "Ramsay Haburne",
+  "gender": "Male"
+}, {
+  "id": 10,
+  "name": "Emilie Beves",
+  "gender": "Female"
+}, {
+  "id": 11,
+  "name": "Cacilie O'Lenechan",
+  "gender": "Female"
+}, {
+  "id": 12,
+  "name": "Howard Matchett",
+  "gender": "Male"
+}, {
+  "id": 13,
+  "name": "Chery Dettmar",
+  "gender": "Female"
+}, {
+  "id": 14,
+  "name": "Yulma Glasspool",
+  "gender": "Male"
+}, {
+  "id": 15,
+  "name": "Kaylil Blodg",
+  "gender": "Female"
+}, {
+  "id": 16,
+  "name": "Dani Bowers",
+  "gender": "Female"
+}, {
+  "id": 17,
+  "name": "Caspar Fitzharris",
+  "gender": "Male"
+}, {
+  "id": 18,
+  "name": "Demetrius Mulgrew",
+  "gender": "Male"
+}, {
+  "id": 19,
+  "name": "Sigfrid Balden",
+  "gender": "Male"
+}, {
+  "id": 20,
+  "name": "Webb Kenryd",
+  "gender": "Male"
+}, {
+  "id": 21,
+  "name": "Patsy Allington",
+  "gender": "Female"
+}, {
+  "id": 22,
+  "name": "Dolley Reuss",
+  "gender": "Female"
+}, {
+  "id": 23,
+  "name": "Donn Roberts",
+  "gender": "Male"
+}, {
+  "id": 24,
+  "name": "Christy Clews",
+  "gender": "Female"
+}, {
+  "id": 25,
+  "name": "Claudette Roffey",
+  "gender": "Female"
+}, {
+  "id": 26,
+  "name": "Sergeant Offen",
+  "gender": "Male"
+}, {
+  "id": 27,
+  "name": "Nathaniel Snodin",
+  "gender": "Male"
+}, {
+  "id": 28,
+  "name": "Archie Peddel",
+  "gender": "Male"
+}, {
+  "id": 29,
+  "name": "Malvina Hubery",
+  "gender": "Female"
+}, {
+  "id": 30,
+  "name": "Elfrida Brunesco",
+  "gender": "Female"
+}]
+}
